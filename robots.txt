@@ -5,4 +5,4 @@ User-agent: *
 Disallow: /search
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://alvarohugogarciacespedes.github.io/Website/sitemap.xml
